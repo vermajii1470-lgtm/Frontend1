@@ -1,0 +1,6 @@
+/* styles.css */
+.highlight-line {
+  background-color: rgb(194, 194, 19);  /* Highlight color */
+  padding: 2px 4px;          /* Some spacing around the text */
+  border-radius: 4px;        /* Rounded corners */
+}
